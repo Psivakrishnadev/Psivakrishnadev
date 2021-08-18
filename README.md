@@ -27,11 +27,16 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Psivakrishnadev&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [instagram]: https://www.instagram.com/psivakrishna/
 [linkedin]: https://www.linkedin.com/in/p-siva-krishna-902baa215/
 [webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+ 
 
