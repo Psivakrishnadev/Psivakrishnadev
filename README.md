@@ -31,6 +31,6 @@
 
 [instagram]: https://www.instagram.com/psivakrishna/
 [linkedin]: https://www.linkedin.com/in/p-siva-krishna-902baa215/
-[webdevplaylist]: 
+[webdevplaylist]: https://www.linkedin.com/in/p-siva-krishna-902baa215/
  
 
