@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm P Siva Krishna 👋
 
-<!--
-**Psivakrishnadev/Psivakrishnadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 🔭 I’m currently working on React Js/ Node JS [MERN]
+- 🌱 I’m currently learning Next Js 
+- 👯 I’m looking to Work With Innovative Ideas 
+- 🥅 2020 Goals: Contribute more to Open Source projects which has Greater Good to the Society 
+- ⚡ Fun fact: I love to Travel & 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://en.wikipedia.org/wiki/File:Twitter_Logo_as_of_2021.svg#/media/File:Twitter_Logo_as_of_2021.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+
