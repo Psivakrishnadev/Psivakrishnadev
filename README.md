@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://en.wikipedia.org/wiki/File:Twitter_Logo_as_of_2021.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="	https://www.iconfinder.com/icons/94973/q_icon#size=128" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 
