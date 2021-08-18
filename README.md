@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React Js/ Node JS [MERN]
 - 🌱 I’m currently learning Next Js 
 - 👯 I’m looking to Work With Innovative Ideas 
-- 🥅 2020 Goals: Contribute more to Open Source projects which has Greater Good to the Society 
+- 🥅 Goals: Contribute more to Open Source projects which has Greater Good to the Society 
 - ⚡ Fun fact: I love to Travel 
 
 ### Connect with me:
