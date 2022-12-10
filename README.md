@@ -28,9 +28,7 @@
 <br />
 
 
-
-[instagram]: https://www.instagram.com/psivakrishna/
-[linkedin]: https://www.linkedin.com/in/p-siva-krishna-902baa215/
-[webdevplaylist]: https://www.linkedin.com/in/p-siva-krishna-902baa215/
+[linkedin]: https://www.linkedin.com/in/siva-krishna-prabhala-b3a9ab192
+[webdevplaylist]: https://www.linkedin.com/in/siva-krishna-prabhala-b3a9ab192
  
 
